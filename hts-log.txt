@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 24 Oct 2021 09:07:19 at http://daotao.hutech.edu.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://daotao.hutech.edu.vn/ -O1 "C:\My Web Sites\daotaoohutech" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:29:47	Error: 	"Not Found" (404) at link daotao.hutech.edu.vn/js/Login365_1.js (from daotao.hutech.edu.vn/)
+09:29:47	Error: 	"Not Found" (404) at link daotao.hutech.edu.vn/js/Login365.js (from daotao.hutech.edu.vn/)
+09:56:20	Error: 	"Not Found" (404) at link daotao.hutech.edu.vn/Upload/file/Danh muc HP tuong duong - LLCT.xls (from daotao.hutech.edu.vn/)
+09:56:20	Error: 	"Not Found" (404) at link daotao.hutech.edu.vn/Upload/file/Danh muc HP tuong duong - CNTP.xls (from daotao.hutech.edu.vn/)
+09:56:26	Error: 	"Not Found" (404) at link daotao.hutech.edu.vn/App_Themes/Standard/App_Themes/Standard/Images/menuNavigateLog.png (from daotao.hutech.edu.vn/App_Themes/Standard/Standard.css)
+09:56:26	Error: 	"Not Found" (404) at link daotao.hutech.edu.vn/App_Themes/Standard/App_Themes/Standard/Images/baseBackground.png (from daotao.hutech.edu.vn/App_Themes/Standard/Standard.css)
+09:56:26	Error: 	"Not Found" (404) at link daotao.hutech.edu.vn/POST (from daotao.hutech.edu.vn/WebResource.axd?d=6ugCZcyPuSWDe9IcxOyzEGn8TJb863JPkmZG3GnXZ0yPLIVHMvsUwcCcW96BZ5FGejhFkS0BCt2n5ionU0J_kvD4kMM1&t=637291813376503783)
+09:56:26	Error: 	"Not Found" (404) at link daotao.hutech.edu.vn/Firefox/ (from daotao.hutech.edu.vn/ScriptResource.axd?d=yv5c6ymw8p4UGBYZOCj-Mx89s9UecMOiRl-n8-qqRcXXqORzWiuWJvqzuqxG0WytDZmhB4iRjsKuvvhcN5VLl0o3sumEk-h7fCvtbwTvuFSy8DTZ--qxdb9I3ZHMAqCj2HF93Lm4c0Nem_4R3iE_IM0eLeYqwbsLZRh-0wZNdL7DxRrU0&t=3f4a792d)
+09:56:26	Error: 	"Not Found" (404) at link daotao.hutech.edu.vn/AppleWebKit/ (from daotao.hutech.edu.vn/ScriptResource.axd?d=yv5c6ymw8p4UGBYZOCj-Mx89s9UecMOiRl-n8-qqRcXXqORzWiuWJvqzuqxG0WytDZmhB4iRjsKuvvhcN5VLl0o3sumEk-h7fCvtbwTvuFSy8DTZ--qxdb9I3ZHMAqCj2HF93Lm4c0Nem_4R3iE_IM0eLeYqwbsLZRh-0wZNdL7DxRrU0&t=3f4a792d)
+09:56:26	Error: 	"Not Found" (404) at link daotao.hutech.edu.vn/Opera/ (from daotao.hutech.edu.vn/ScriptResource.axd?d=yv5c6ymw8p4UGBYZOCj-Mx89s9UecMOiRl-n8-qqRcXXqORzWiuWJvqzuqxG0WytDZmhB4iRjsKuvvhcN5VLl0o3sumEk-h7fCvtbwTvuFSy8DTZ--qxdb9I3ZHMAqCj2HF93Lm4c0Nem_4R3iE_IM0eLeYqwbsLZRh-0wZNdL7DxRrU0&t=3f4a792d)
+
+HTTrack Website Copier/3.49-2 mirror complete in 49 minutes 18 seconds : 154 links scanned, 143 files written (74337333 bytes overall) [73343560 bytes received at 24794 bytes/sec], 1405024 bytes transferred using HTTP compression in 21 files, ratio 25%
+(10 errors, 0 warnings, 0 messages)
